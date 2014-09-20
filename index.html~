@@ -158,7 +158,7 @@
 		</ul>
 			<li>Project on Operating System</li>
 		<ul>
-			<li>Developed both 16-bit real and 32-bit protected mode small scale CUI based Operating System</li>			
+			<li>Developed both 16-bit real and 32-bit protected mode small scale CUI based Operating System <a href="https://github.com/sarthakparui/opos">LINK</a></li>			
 			<iframe align="right" src="https://onedrive.live.com/embed?cid=BC02BB20A265E44E&resid=BC02BB20A265E44E%21108&authkey=ALJ-WgQVtee_iLk" width="320" height="180" frameborder="0" scrolling="no"></iframe>
 		</ul>
 			<li>Augmented Reality application for Kinect</li>
@@ -329,12 +329,12 @@ using Kinect</li>
 				<!-- Icons -->
 					<ul class="actions">
 						<li><a href="http://sarthakparui.wordpress.com" class="icon fa-wordpress" target="blank"><span class="label">Blog</span></a></li>						
-						<li><a href="http://www.linkedin.com/pub/sarthak-parui/30/b60/533" class="icon fa-linkedin" rel="nofollow" target="blank"><span class="label">LinkedIn</span></a></li>rget="blank">LINK</a></li>
+						<li><a href="http://www.linkedin.com/pub/sarthak-parui/30/b60/533" class="icon fa-linkedin" rel="nofollow" target="blank"><span class="label">LinkedIn</span></a></li>
 						<li><a href="http://www.facebook.com/sarthak.parui" class="icon fa-facebook" rel="nofollow" target="blank"><span class="label">Facebook</span></a></li>
 						<li><a href="https://plus.google.com/111086087989309485767/" class="icon fa-google-plus" rel="nofollow" target="blank"><span class="label">Google+</span></a></li>
 						<li><a href="https://twitter.com/saptakp" class="icon fa-twitter" rel="nofollow" target="blank"><span class="label">Twitter</span></a></li>						
 					</ul>
-rget="blank">LINK</a></li>
+
 				<!-- Menu -->
 					<ul class="menu">
 						<li>&copy; Sarthak Parui</li>						
